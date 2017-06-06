@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Seven Wonders of Belarus</string>
+    <string name="wonderName1">Bialowieza Forest</string>
+    <string name="wonderName2">Brest Fortress</string>
+    <string name="wonderName3">Lake Narach</string>
+    <string name="wonderName4">Mir Castle Complex</string>
+    <string name="wonderName5">Polotsk Saint Sophia Cathedral</string>
+    <string name="wonderName6">The Babruysk Fortress</string>
+    <string name="wonderName7">National Sanctuary of the Mother of God of Budslau</string>
+
+    <string name="wonder1">Bialowieza Forest is one of the last and largest remaining parts of the immense primeval forest that once stretched across the European Plain. The forest is home to 800 European bison, Europe\'s heaviest land animal. The forest has been designated a UNESCO World Heritage Site and an EU Natura 2000 Special Area of Conservation. </string>
+    <string name="wonder2">Brest Fortress, formerly known as Brest-Litovsk Fortress, is a 19th-century Russian fortress in Brest, Belarus. Following the war, in 1965 the title Hero-Fortress was given to the Fortress to commemorate the defence of the frontier stronghold during the first weeks of the German-Soviet War, specifically the invasion on June 22, 1941 (Operation Barbarossa). The title Hero-Fortress corresponds to the title Hero City, that was awarded to an eventual total of twelve Soviet cities. </string>
+    <string name="wonder3">Lake Narach is a lake in north-western Belarus (Myadzyel Raion, Minsk Region), located in the basin of the Viliya river. Narach is a part of the Narach lake group (the others being Miastra, Batoryn, Blednaje). It was formed about 11 thousand years ago after the Pleistocene ice ages. It has a surface area of 79.6 km2, a wider length of 12.8 km, a maximum depth of 24.8 m, average depth of 8.9 m, a volume of 710 million cubic meters. The lake is surrounded with pine forests. The Narach River flows out of it.</string>
+    <string name="wonder4">Mir Castle Complex is a unique monument of Belarusian national culture, which is included in the List of World Cultural and Natural Heritage, one of the national symbols and an object of national pride. It is in the town of Mir, in the Karelichy District of the Hrodna voblast, 29 kilometres (18 mi) north-west of another World Heritage site, Nesvizh Castle. Mirsky Castle was built in the early XVI century by magnate Yury Ilyinich and became the first privately owned castle in Belarus lands.</string>
+    <string name="wonder5">Polotsk Saint Sophia Cathedral was built by Prince Vseslav Briacheslavich (r.1044–1101) between 1044 (it is first mentioned in the Voskresenskaia Chronicle under the year 1056) and 1066. It stands at the confluence of the Polota and Western Dvina Rivers on the eastern side of the city and is probably the oldest church in Belarus.</string>
+    <string name="wonder6">The Babruysk Fortress is a historic fortress in the city of Babruysk, Belarus, that was built between 1810 and 1836. It is one of the best surviving examples of fortification architecture and design in the first half of the 19th century. The fortress was constructed in the historic center of the city, at the confluence of the Babruyka and Berezina rivers.</string>
+    <string name="wonder7">National Sanctuary of the Mother of God of Budslau is a former Bernardine, now parish Catholic Church in village Budslau, Myadzyel Raion, Minsk Region, Belarus. The church is a monument of architecture of the late Baroque, it has Budslau icon of Our Lady - one of the most revered Catholic images. In 1996 Pope John Paul II proclaimed this icon the patron of Belarus.</string>
+
+    <string name="checkConnection">Error! Please, check your internet connection!</string>
+    <string name="share">Share</string>
+    <string name="more">More</string>
+    <string name="moreWiki">Read more in Wiki…</string>
+    <string name="noMore">no more!</string>
+    <string name="notLike">You don\'t like</string>
+    <string name="like">You like</string>
+    <string name="welcome">Welcome to Seven Wonders of Belarus! You can get acquainted with Belarussian national heritage, get location, share and get more information from Wiki! The application is accessible in Belarussian, English and Russian languages!</string>
+
+</resources>

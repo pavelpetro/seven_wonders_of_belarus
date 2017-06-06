@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="by.tut.pavelpetro.sevenwondersbelarus.StartingFragment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/arnamient"
+        android:id="@+id/imageViewArnament"
+        android:alpha="0.2"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/welcome"
+        android:id="@+id/welcomeView"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:textColor="@android:color/background_dark"
+        android:padding="20dp"
+        android:clickable="true" />
+
+    <TextView
+        style="@style/languageTitle"
+        android:text="RU"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/languageRuView"/>
+
+    <TextView
+        style="@style/languageTitle"
+        android:text="EN"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/languageRuView"
+        android:id="@+id/languageEnView" />
+
+    <TextView
+        android:text="BE"
+        style="@style/languageTitle"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/languageEnView"
+        android:id="@+id/languageBeView" />
+
+    <ImageView
+        app:srcCompat="@android:drawable/ic_media_play"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/nextView"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_margin="20dp" />
+
+</RelativeLayout>
